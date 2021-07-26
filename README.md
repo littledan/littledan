@@ -47,4 +47,4 @@ I like to give talks in various groups of JavaScript developers, to explain how 
   - Various TC39 panels, e.g., [at JSConf EU 2019](https://www.youtube.com/watch?v=slA06pbTRi4)
   - JSKongress 2018 and 2019: [Deep Track](https://www.youtube.com/watch?v=1yPv0OQ5bhI)
 
-In a past life at Google, I worked on Linux kernel/firmware stuff to improve access to SSDs. 
+In a past life at Google, I worked on Linux kernel/firmware stuff to improve access to SSDs. As part of that, I wrote [a popular introduction to Linux AIO](https://github.com/littledan/linux-aio) and even landed [some very basic upstream kernel patches](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Ehrenberg).
