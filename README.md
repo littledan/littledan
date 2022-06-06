@@ -1,6 +1,6 @@
-I'm Daniel Ehrenberg (he/him or they/them), an engineer at Igalia working in various standards bodies, to improve JavaScript, WebAssembly and the Web Platform. I want to make computers more open and easy to program for everyone.
+I'm Daniel Ehrenberg (he/him or they/them), an engineer working in various standards bodies, to improve JavaScript, WebAssembly and the Web Platform. I want to make computers more open and easy to program for everyone.
 
-I work at [Igalia](https://www.igalia.com/), an open source consultancy, and do most of my standards work on behalf of Igalia's clients. If you're interested in collaborating, please [email me](mailto:littledan@igalia.com).
+I work at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) as a software engineer. Previously, I worked at [Igalia](https://www.igalia.com/), an open source consultancy, which counts Bloomberg among its clients.
 
 To learn about my work, you can watch some of the talks I've given about it. I like to give talks in various groups of JavaScript developers, to explain how TC39 works, encourage people to get involved, and learn more about different developers' needs.
 - **Conference talks**
