@@ -2,6 +2,15 @@ I'm Daniel Ehrenberg (he/him or they/them), an engineer working in various stand
 
 I work at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) as a software engineer. Previously, I worked at [Igalia](https://www.igalia.com/), an open source consultancy, which counts Bloomberg among its clients.
 
+To contact me:
+- Email: dehrenberg@bloomberg.net / microdan@gmail.com / littledan@chromium.org
+- Matrix chat: @littledan:matrix.org (Preferred DM platform)
+- Mastodon: @littledan@mastodon.social
+- Signal/WhatsApp/SMS/POTS: +1(415)549-6836
+- LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
+- Facebook: [@ehrenbed](https://facebook.com/ehrenbed)
+- Instagram: [@ehrenberg.daniel](https://instagram.com/ehrenberg.daniel/)
+
 To learn about my work, you can watch some of the talks I've given about it. I like to give talks in various groups of JavaScript developers, to explain how TC39 works, encourage people to get involved, and learn more about different developers' needs.
 - **Conference talks**
   - JSConf EU 2018: [Native BigInts in JavaScript: A Case Study in TC39](https://www.youtube.com/watch?v=RiU5OzMZ7z8)
