@@ -5,6 +5,7 @@ I work at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg
 To contact me:
 - Email: dehrenberg@bloomberg.net / microdan@gmail.com / littledan@chromium.org
 - Matrix chat: @littledan:matrix.org (Preferred DM platform)
+- Bluesky: [@littledan.dev](https://bsky.app/profile/littledan.dev)
 - Mastodon: [@littledan@hackyderm.io](https://hachyderm.io/@littledan)
 - Signal/WhatsApp/SMS/POTS: +1(415)549-6836
 - LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
