@@ -9,8 +9,7 @@ To contact me:
 - Mastodon: [@littledan@hackyderm.io](https://hachyderm.io/@littledan)
 - Signal/WhatsApp/SMS/POTS: +1(415)549-6836
 - LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
-- Facebook: [@ehrenbed](https://facebook.com/ehrenbed)
-- Instagram: [@ehrenberg.daniel](https://instagram.com/ehrenberg.daniel/)
+- Discord: @littledan1337
 
 To learn about my work, you can watch some of the talks I've given about it. I like to give talks in various groups of JavaScript developers, to explain how TC39 works, encourage people to get involved, and learn more about different developers' needs.
 - **Conference talks**
