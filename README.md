@@ -1,18 +1,15 @@
-I'm Daniel Ehrenberg (he/him or they/them), an engineer working in various standards bodies, to improve JavaScript, WebAssembly and the Web Platform. I want to make computers more open and easy to program for everyone.
+I'm Daniel Ehrenberg (he/him or they/them) and have worked as an engineer working in various standards bodies, to improve JavaScript, WebAssembly and the Web Platform. I want to make computers more open and easy to program for everyone.
 
-I work at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) as a software engineer. Previously, I worked at [Igalia](https://www.igalia.com/), an open source consultancy, which counts Bloomberg among its clients.
+I most recently worked at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) as a software engineer. Previously, I worked at [Igalia](https://www.igalia.com/), an open source consultancy, which counts Bloomberg among its clients.
 
 To contact me:
-- Email: me@littledan.dev / dehrenberg@bloomberg.net / microdan@gmail.com / littledan@chromium.org
-- Matrix chat: @littledan:matrix.org (Preferred DM platform)
-- Bluesky: [@littledan.dev](https://bsky.app/profile/littledan.dev)
-- Mastodon: [@littledan@hackyderm.io](https://hachyderm.io/@littledan)
+- Email: daniel@ehrenberg.cat
 - Signal: littledan.73
 - WhatsApp/SMS/POTS: +1(415)549-6836
 - LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
 - Discord: @littledan1337
 
-To learn about my work, you can watch some of the talks I've given about it. I like to give talks in various groups of JavaScript developers, to explain how TC39 works, encourage people to get involved, and learn more about different developers' needs.
+To learn about my work, you can watch some of the talks I've given about it. I like to give talks in various groups of JavaScript developers, to explain how TC39 works, encourage people to get involved, and learn more about different developers' needs. (Note: there were more talks and podcasts since these, just search YouTube for my name. also an ACMQ publication.)
 - **Conference talks**
   - JSConf EU 2018: [Native BigInts in JavaScript: A Case Study in TC39](https://www.youtube.com/watch?v=RiU5OzMZ7z8)
   - BrazilJS 2018: [TC39 and elegantly handling missing values in JavaScript](https://www.youtube.com/watch?v=Wnughqps6i4)
