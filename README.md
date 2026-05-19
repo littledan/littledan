@@ -5,7 +5,7 @@ I most recently worked at [Bloomberg](https://www.bloomberg.com/company/values/t
 To contact me:
 - Email: dan@littledan.dev
 - Signal: littledan.73
-- WhatsApp/SMS/POTS: +1(415)549-6836
+- WhatsApp/SMS/POTS: +1(415)549-6836 and +34 654 011 748
 - LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
 - Discord: @littledan1337
 
