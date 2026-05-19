@@ -3,7 +3,7 @@ I'm Daniel Ehrenberg (he/him or they/them) and have worked as an engineer workin
 I most recently worked at [Bloomberg](https://www.bloomberg.com/company/values/tech-at-bloomberg/) as a software engineer. Previously, I worked at [Igalia](https://www.igalia.com/), an open source consultancy, which counts Bloomberg among its clients.
 
 To contact me:
-- Email: daniel@ehrenberg.cat
+- Email: dan@littledan.dev
 - Signal: littledan.73
 - WhatsApp/SMS/POTS: +1(415)549-6836
 - LinkedIn: [@danielehrenberg](https://linkedin.com/in/danielehrenberg/)
