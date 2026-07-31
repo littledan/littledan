@@ -13,21 +13,21 @@ To learn about my work, you can watch some of the talks I've given about it. I l
   - JSConf EU 2018: [Native BigInts in JavaScript: A Case Study in TC39](https://www.youtube.com/watch?v=RiU5OzMZ7z8)
   - BrazilJS 2018: [TC39 and elegantly handling missing values in JavaScript](https://www.youtube.com/watch?v=Wnughqps6i4)
   - WorkerConf 2018: [Community-driven language design at TC39](https://www.youtube.com/watch?v=KjXEdsgnO-4) (Pipeline operator)
+  - NodeFest Japan 2018: [Private fields and methods: Coming to JavaScript](https://www.youtube.com/watch?v=nbiitCu0Xno)
   - WorkerConf 2019 : [JavaScript Class Features: A case study in TC39](https://www.youtube.com/watch?v=Rc2TpO7WXYc)
   - dotJS 2019: [TC39: How we work, what we are working on & how you can get involved](https://www.youtube.com/watch?v=hCenHYqE7R4)
-  - Node.TLV 2020: [BigDecimal: Avoid rounding errors on decimals in JavaScript](https://www.youtube.com/watch?v=G3Q4vWf8Peo)
   - FullStackFest 2019: [Standardizing JavaScript Decorators in TC39](https://www.youtube.com/watch?v=qK_ZstO2Uy4)
-  - HolyJS Moscow 2020: [The future of JavaScript modules: JS module blocks and native bundling](https://www.youtube.com/watch?v=OFUanbq_8Xw)
-  - NodeFest Japan 2018: [Private fields and methods: Coming to JavaScript](https://www.youtube.com/watch?v=nbiitCu0Xno)
   - Alibaba D2 2019: [Let's work together on the future of JavaScript through TC39](https://www.alibabaf2e.com/14)
   - InfoQ GMTC 2019: [JavaScript WeakRefs and TC39 standardization](https://www.infoq.cn/article/cyepaxuahheq5hfbfn4n)
+  - Node.TLV 2020: [BigDecimal: Avoid rounding errors on decimals in JavaScript](https://www.youtube.com/watch?v=G3Q4vWf8Peo)
+  - HolyJS Moscow 2020: [The future of JavaScript modules: JS module blocks and native bundling](https://www.youtube.com/watch?v=OFUanbq_8Xw)
   - NodeConf EU 2023: [AsyncContext: Observability in JavaScript through TC39 and WinterCG](https://www.youtube.com/watch?v=WJXoSsLTD70)
-  - OWASP Global AppSec Lisbon 2024: [Build strong defenses by participating in standards!](https://owaspglobalappseclisbon2024.sched.com/)
+  - OWASP Global AppSec Lisbon 2024: [Build strong defenses by participating in standards!](https://www.youtube.com/watch?v=GJQuFg_dX-c&t=12s)
   - EmberConf 2024: [Standardizing Autotracking Via TC39 Signals](https://www.youtube.com/watch?v=ji7zSHCX6d8)
   - JSNation US 2024: [Standardizing Signals in TC39](https://www.youtube.com/watch?v=uA0CIYdC0xA)
-  - JSWorld Conference 2025 (Amsterdam): Standardizing Signals in TC39
+  - JSWorld Conference 2025 (Amsterdam): [Standardizing Signals in TC39](https://www.youtube.com/watch?v=5mn3EpWCcJs)
   - FOSDEM 2026: [The Cyber Resilience Act and web browsers](https://video.fosdem.org/2026/h1309/YMQ3J3-the_cyber_resilience_act_and_web_browsers.mp4)
-  - CRA Standards Unlocked, Castelldefels (CTTC) 2026: Web browser vertical standard: A work in progress
+  - CRA Standards Unlocked, Barcelona 2026: [Web browser vertical standard: A work in progress](https://docs.google.com/presentation/d/1hAy7nEaE_Jljx4C8OrtLVEeRveyz5p1RCrquJx4q8ew/edit?slide=id.g3d28efff5ca_2_539#slide=id.g3d28efff5ca_2_539)
 - **Meetups/podcasts**
   - [TC39er](https://tc39er.us/posts/episode-12-daniel-ehrenberg/)
   - TalkScript 32: [# is the New \_: Private Fields in JS](https://www.youtube.com/watch?v=weVNrflT-vU) with Rob Palmer
@@ -37,6 +37,7 @@ To learn about my work, you can watch some of the talks I've given about it. I l
   - JavaScript Israel: [JS Module Blocks and Fragments](https://www.youtube.com/watch?v=TYIq-mnjHoQ)
   - Various TC39 panels, e.g., [at JSConf EU 2019](https://www.youtube.com/watch?v=slA06pbTRi4)
   - JSKongress 2018 and 2019: [Deep Track](https://www.youtube.com/watch?v=1yPv0OQ5bhI)
+  - Organizer of [QueerJS New York 2024](https://queerjs.com/new-york-2024/)
   - TC39 Chat: [Observables](https://www.youtube.com/watch?v=s4Y_WLcGmxg) with Ben Lesh
   - Software Engineering Radio: [How JavaScript Really Evolves: Inside TC39](https://www.youtube.com/watch?v=v9Al9-0jkoQ) with Jan-Niklas Wortmann
 
